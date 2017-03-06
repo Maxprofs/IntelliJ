@@ -9,7 +9,7 @@ public class Main {
         num1 = keyboard.nextDouble();
         System.out.println("Give me the second # you want to multiply");
         num2 = keyboard.nextDouble();
-        Compute multiplation = new Compute(num1,num2);
-        System.out.println(multiplation);
+        Compute multiplication = new Compute();
+        multiplication.ComputeThis(num1,num2);
     }
 }

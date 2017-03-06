@@ -4,7 +4,7 @@
 public class Compute
 {
     double num1,num2;
-    public double Compute(int x, int y)
+    public double Compute(double x,double y)
     {
         num1 = x;
         num2 = y;

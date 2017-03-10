@@ -15,7 +15,7 @@ public class Compute
     }
     public String WhoBest()
     {
-        System.out.println("I'm is the best!");
-        return "I'm is the Best";
+        String MeBest = "I'm is the best!";
+        return MeBest;
     }
 }

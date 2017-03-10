@@ -15,9 +15,9 @@ public class Main
         multiplication.ComputeThis(num1,num2);
     */
     //*****Failed Cold to be fixed
-    // Compute ImTheBest = new Compute();
-    // ImTheBest.WhoBest();
-    // System.out.println(ImtheBest.WhoBest());
+    Compute ImTheBest = new Compute();
+    ImTheBest.WhoBest();
+    System.out.println(ImTheBest.WhoBest());
     // System.out.println("So 1337");
 
     }

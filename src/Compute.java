@@ -13,4 +13,9 @@ public class Compute
         System.out.println(calculation);
         return calculation;
     }
+    public String WhoBest()
+    {
+        System.out.println("I'm is the best!");
+        return "I'm is the Best";
+    }
 }
